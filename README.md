@@ -1,5 +1,7 @@
 # Saturn.js
 
+![saturn](https://d3jkudlc7u70kh.cloudfront.net/saturn-facts.jpg)
+
 ### Sample:
 
 ```javascript
