@@ -1,5 +1,7 @@
 # Saturn.js
 
+> An easy to use minimal js library for earth and beyond
+
 ![saturn](https://d3jkudlc7u70kh.cloudfront.net/saturn-facts.jpg)
 
 ### Sample:
