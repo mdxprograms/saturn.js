@@ -1,0 +1,23 @@
+{
+  "name": "saturn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server saturn.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josh Waller <mdx.programs@gmail.com> (http://joshwaller.net/)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "eslint": "^4.4.1",
+    "webpack": "^3.5.4",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "dependencies": {
+    "whatwg-fetch": "^2.0.3"
+  }
+}
