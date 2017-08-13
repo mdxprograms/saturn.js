@@ -26,3 +26,7 @@
 
   <script src="./sample.min.js"></script>
 ```
+
+### Current issues/enhancements
+
+[issues](https://github.com/mdxprograms/saturn.js/issues)

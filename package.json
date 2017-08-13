@@ -2,9 +2,10 @@
   "name": "saturn",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "saturn.js",
   "scripts": {
     "start": "webpack-dev-server saturn.js",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
