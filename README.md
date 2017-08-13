@@ -23,8 +23,6 @@
 ```html
   <button data-click-me>Click me</button>
   <div data-render-me>I'm going to show something!</div>
-
-  <script src="./sample.min.js"></script>
 ```
 
 ### [Current issues/enhancements](https://github.com/mdxprograms/saturn.js/issues)
