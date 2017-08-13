@@ -1,6 +1,6 @@
 import Saturn from './saturn'
 
-const url = 'https://www.reddit.com/r/webdev.json'
+const url = 'https://www.reddit.com/r/javascript.json'
 const btnTrigger = Saturn.orbit('[data-click-me]')
 
 btnTrigger.on('click')
