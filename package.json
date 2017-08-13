@@ -1,7 +1,7 @@
 {
   "name": "saturn",
   "version": "1.0.0",
-  "description": "",
+  "description": "An easy to use minimal js library for earth and beyond",
   "main": "saturn.js",
   "scripts": {
     "start": "webpack-dev-server saturn.js",
